@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 convert csv to unicode box drawing
 from AdamantPenguin/box-drawing-utils on GitHub
